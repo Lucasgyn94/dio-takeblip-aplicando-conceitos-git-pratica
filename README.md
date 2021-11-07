@@ -32,6 +32,14 @@ que estão criados no meu workspace para o staging area
 * git stash pop / git stash list
 
 * git merge 
+  
+  _<h2>Dicas Úteis</h2>_
+
+* Pull sempre que for começar a trabalhar
+* Sem commits na master
+* Geralmente temos uma branch chamada DEV que receberá todas as features em desenvolvimento.
+* Usar uma branch por feature
+* Use nomes descritivos para commitar seus arquivos com a nomenclatura fix / feat
 
 * git version
 
